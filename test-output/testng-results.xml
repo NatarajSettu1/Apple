@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36693" started-at="2020-03-13T12:35:06Z" finished-at="2020-03-13T12:35:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36693" started-at="2020-03-13T12:35:06Z" finished-at="2020-03-13T12:35:43Z">
+      <class name="OnlineTest.DressPageTest">
+        <test-method status="PASS" signature="AddCartVerification()[pri:0, instance:OnlineTest.DressPageTest@52af26ee]" name="AddCartVerification" duration-ms="19814" started-at="2020-03-13T18:05:07Z" finished-at="2020-03-13T18:05:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddCartVerification -->
+        <test-method status="PASS" signature="DressSizeDisplayed()[pri:0, instance:OnlineTest.DressPageTest@52af26ee]" name="DressSizeDisplayed" duration-ms="2649" started-at="2020-03-13T18:05:26Z" finished-at="2020-03-13T18:05:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DressSizeDisplayed -->
+        <test-method status="PASS" signature="ProductCheck()[pri:0, instance:OnlineTest.DressPageTest@52af26ee]" name="ProductCheck" duration-ms="2638" started-at="2020-03-13T18:05:29Z" finished-at="2020-03-13T18:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ProductCheck -->
+      </class> <!-- OnlineTest.DressPageTest -->
+      <class name="OnlineTest.HomePageTest">
+        <test-method status="PASS" signature="HomePageDisplayed()[pri:0, instance:OnlineTest.HomePageTest@7c711375]" name="HomePageDisplayed" duration-ms="240" started-at="2020-03-13T18:05:32Z" finished-at="2020-03-13T18:05:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HomePageDisplayed -->
+        <test-method status="PASS" signature="PageNavigated()[pri:0, instance:OnlineTest.HomePageTest@7c711375]" name="PageNavigated" duration-ms="8396" started-at="2020-03-13T18:05:32Z" finished-at="2020-03-13T18:05:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageNavigated -->
+        <test-method status="PASS" signature="EmailNewsLetter()[pri:0, instance:OnlineTest.HomePageTest@7c711375]" name="EmailNewsLetter" duration-ms="2886" started-at="2020-03-13T18:05:40Z" finished-at="2020-03-13T18:05:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EmailNewsLetter -->
+      </class> <!-- OnlineTest.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
