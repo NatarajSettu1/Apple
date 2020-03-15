@@ -15,7 +15,10 @@ import Online.StuctClass;
 public class DressPageTest {
 	
 	StuctClass s;
+
 	DressPage F;
+	DressPage E;
+
 	public DressPageTest()
 	{
 		s=new StuctClass();
